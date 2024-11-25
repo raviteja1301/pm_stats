@@ -1,0 +1,34 @@
+{
+    "data" : [
+        [
+            "10.141.27.108",
+            "Record Dispatcher",
+            "6002",
+            "Listening"
+        ],
+        [
+            "10.141.27.108",
+            "Record Processor",
+            "6080",
+            "Not Listening"
+        ],
+        [
+            "10.141.27.108",
+            "Record Dispatcher 2",
+            "8070",
+            "Listening"
+        ],
+        [
+            "10.141.173.11",
+            "Record Dispatcher",
+            "7080",
+            "Listening"
+        ],
+        [
+            "10.141.26.105",
+            "Record Processor",
+            "6050",
+            "Not Listening"
+        ]
+    ]
+}
